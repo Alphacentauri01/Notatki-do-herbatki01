@@ -1,4 +1,6 @@
-# Notatki-do-herbatki01#include<stdio.h>
+# Notatki-do-herbatki01
+
+#include<stdio.h>
 #define znak "*"        / *znak wypełniania*/
 main(){
 	int lbwier;     / *calkowita liczba wierszy*/
