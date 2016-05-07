@@ -17,3 +17,6 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
   
   
 [Znaczniki MD](https://en.wikipedia.org/wiki/Markdown)
+
+
+![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)
