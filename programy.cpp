@@ -1,10 +1,10 @@
 #include<stdio.h>
-#define znak "*"        / *znak wype³niania*/
+#define znak "*"        / *znak wypelniania*/
 
 main(){
 	int lbwier;     / *calkowita liczba wierszy*/
 	int lw;         / *licznik wierszy*/
-	int lods;       / *liczba odstepów poprzedzajacych gwiazdkê*/
+	int lods;       / *liczba odstepów poprzedzajacych gwiazdke*/
 	int j;
 	printf("ile wierszy?");
 	scanf("%d", &lbwier);
