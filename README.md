@@ -2,7 +2,7 @@
 
 ### Przyklad programu w jezyku C
 
-TODO: Uzupelnic notatke i dodac opis programu
+Poniższe linki stanowia przykłady do programów w jezyku C. Mam nadzieję,że kiedyś je zrozumię. lol
 
 _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)
 
