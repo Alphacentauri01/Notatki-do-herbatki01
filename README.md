@@ -142,7 +142,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 
  Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
 
-	Markdown:	                Wynik:
+	Markdown:	               Wynik:
 	Nagłówek pierwszego poziomu  | <h1>Nagłówek pierwszego poziomu</h1>	
 	===========================    ====================================
 	
@@ -179,6 +179,6 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	    <h2>To jest H2 w bloku cytatu</h2>
 	</blockquote>
 	
-
+[Link](https://pl.wikipedia.org/wiki/Markdown)
 	
 
