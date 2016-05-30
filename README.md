@@ -4,26 +4,59 @@
 
 Poniższe linki stanowia przykłady do programów w jezyku C. Mam nadzieję,że kiedyś je zrozumię. lol
 
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)
+_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)  
 
-### Przyklad programu w jezyku C  
-	#include<stdio.h>
-	#define znak "*"        / *znak wypelniania*/
+##Porawione zadanie 4  
+
+	include <stdio.h>
+	#include <math.h>
 	
-	main(){
-		int lbwier;     / *calkowita liczba wierszy*/
-		int lw;         / *licznik wierszy*/
-		int lods;       / *liczba odstepów poprzedzajacych gwiazdke*/
-		int j;
-		printf("ile wierszy?");
-		scanf("%d", &lbwier);
-		for (lw=0; lw<lbwier ; lw++){
-			lods=lbwier-lw-1;
-			for(j=0;j<lods;j++) putchar('');
-			for(j=0 ; j<2*lw+1; j++) putchar (znak);
-			putchar ("\n")
+	double Heron (double a);
+	                                                                             {
+	doble x=1, eps=1e-15;
+		do
+		{
+			x=0.5*(x+(a/x));
 		}
+		while (fabs (x-a/x)>eps*x);
+		return x;
 	}
+	int main(){
+		duble a;
+		duble x=1;
+		doble z;
+		pritf("Podaj liczbę: ");
+		scanf("%1f", &a);
+			for (z=1e-5; z<=1e15; z=z*10)
+			{
+				printf ("\nHeron(%1f)=%.15lf\n", z, Heron(a));
+				printf ("\nsqrt(%1f)=%.15lf\t", z, sqrt(a));
+				printf ("\n\nblad wzgledny=%.15le", (Heron(a)
+				-sqrt(a)) / sqrt(a));
+				getchar ();
+				getchar ();
+				return 0;
+			}
+	}
+	
+	### Przyklad programu w jezyku C  
+		#include<stdio.h>
+		#define znak "*"        / *znak wypelniania*/
+		
+		main(){
+			int lbwier;     / *calkowita liczba wierszy*/
+			int lw;         / *licznik wierszy*/
+			int lods;       / *liczba odstepów poprzedzajacych gwiazdke*/
+			int j;
+			printf("ile wierszy?");
+			scanf("%d", &lbwier);
+			for (lw=0; lw<lbwier ; lw++){
+				lods=lbwier-lw-1;
+				for(j=0;j<lods;j++) putchar('');
+				for(j=0 ; j<2*lw+1; j++) putchar (znak);
+				putchar ("\n")
+			}
+		}
 
 pozostałe przykłady programów w języku C
 
