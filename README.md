@@ -325,7 +325,7 @@ Przykłady do przećwiczenia a programie po załadowaniu odpowiedniej biblioteki
 Dzięki uprzejmości kolegi RAfała :)
 
 
-##PYTHON:
+###PYTHON:
 
 	a =                       deklaracja zmiennej
 	print(a)                  drukowanie w konsoli
@@ -433,6 +433,6 @@ Dzięki uprzejmości kolegi RAfała :)
 	
 	from scipy.optimize import_ fsolve
 	
-	fsolve(f2, 0.6)              zwraca wartość przybliżonego miejsca zerowego funkcji f2 w pobliżu x = 0.6, czyli pierwiastek funkcji
+	fsolve(f2, 0.6)        zwraca wartość przybliżonego miejsca zerowego funkcji f2 w pobliżu x = 0.6, czyli pierwiastek funkcji
 	
 	
