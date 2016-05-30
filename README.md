@@ -12,8 +12,10 @@ pozostałe przykłady programów w języku C
 
 _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy2.cpp)  
 _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/Zadanie%205.cpp)  
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/zadanie%20z%20heronem.doc)  
-Zadanie z Heronem
+_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/zadanie%20z%20heronem.doc)
+
+
+###Zadanie z Heronem
   
   #include <stdio.h>
 #include <math.h>
