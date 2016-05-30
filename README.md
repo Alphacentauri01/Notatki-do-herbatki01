@@ -12,7 +12,7 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
 	#include <math.h>
 	
 	double Heron (double a);
-	                                                                             {
+	                        {
 	doble x=1, eps=1e-15;
 		do
 		{
@@ -147,7 +147,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	===========================
 	
 	Nagłówek drugiego poziomu
-	-------------------------
+	--------------------------
 	
 	Now is the time for all good men to come to
 	the aid of their country. This is just a
@@ -165,7 +165,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	<h1>Nagłówek pierwszego poziomu</h1>
 	
 	<h2>Nagłówek drugiego poziomu</h2>
-	----------------------------------
+	===================================
 	<p>Now is the time for all good men to come to
 	the aid of their country. This is just a
 	regular paragraph.</p>
