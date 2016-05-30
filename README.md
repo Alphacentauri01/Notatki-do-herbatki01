@@ -179,6 +179,32 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	    <h2>To jest H2 w bloku cytatu</h2>
 	</blockquote>
 Bardzo pomocne wskazówki do stosowania aplikacji na Wiki -skarbnica wiedzy	
-[Link](https://pl.wikipedia.org/wiki/Markdown)
+[Link](https://pl.wikipedia.org/wiki/Markdown)  
+
+
+Teraz trochę Python'a   
+
+	import math
 	
+	from scipy.optimize import fsolve
+	
+	import matplotlib.pyplot as pl
+	import numpy as np
+	
+	x=np.linspace(-2.5,2,101)
+	y=x**5-8*x+17
+	y1=0*x
+	
+	pl.plot(x,y)
+	
+	def f(x):
+	    return x**5-8*x+17
+	    
+	x1=fsolve(f,-2)
+	print(x1,f(x1))
+	
+	p5=[1,0,0,0,-8,17]
+	
+	print (np.roots(p5))
+		
 
