@@ -82,50 +82,52 @@ Przykład jak można wstawic zdjęcie do swojego repozytorium
 ![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)  
 
 
-Akapity, nagłówki, cytaty
-Akapit to po prostu jedna lub więcej kolejnych linii tekstu, rozdzielonych jedną lub więcej pustych linii. (Pusta linia to dowolna linia, która wygląda jak pusta linia – linia nie zawierająca nic poza spacjami lub tabulatorami jest traktowana jak pusta.) Zwykłe akapity nie powinny być wcinane spacjami lub tabulatorami.
+###Akapity, nagłówki, cytaty  
+
+Akapit to po prostu jedna lub więcej kolejnych linii tekstu, rozdzielonych jedną lub więcej pustych linii. (Pusta linia to dowolna linia, która wygląda jak pusta linia – linia nie zawierająca nic poza spacjami lub tabulatorami jest traktowana jak pusta.) Zwykłe akapity nie powinny być wcinane spacjami lub tabulatorami.  
+
 
 Markdown oferuje dwa rodzaje nagłówków: Setext[1] i atx[2]. Nagłówki w stylu Setext dla <h1> i <h2> są tworzone przez „podkreślanie” znakami równości (=) lub dywizami (-). Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki (#) na początku linii – liczba kratek równa się wynikowemu poziomowi nagłówka HTML.
 
 Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
 
-Markdown:	Wynik:
-Nagłówek pierwszego poziomu
-===========================
-
-Nagłówek drugiego poziomu
--------------------------
-
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-Pójdźże, kiń tę chmurność w głąb flaszy!
-
-### Nagłówek 3.
-
-> To jest blok cytatu.
->
-> To jest drugi akapit w bloku cytatu.
->
-> ## To jest H2 w bloku cytatu
-<h1>Nagłówek pierwszego poziomu</h1>
-
-<h2>Nagłówek drugiego poziomu</h2>
-
-<p>Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.</p>
-
-<p>Pójdźże, kiń tę chmurność w głąb flaszy!</p>
-
-<h3>Nagłówek 3.</h3>
-
-<blockquote>
-    <p>To jest blok cytatu.</p>
-
-    <p>To jest drugi akapit w bloku cytatu.</p>
-
-    <h2>To jest H2 w bloku cytatu</h2>
-</blockquote>
-
+	Markdown:	Wynik:
+	Nagłówek pierwszego poziomu
+	===========================
+	
+	Nagłówek drugiego poziomu
+	-------------------------
+	
+	Now is the time for all good men to come to
+	the aid of their country. This is just a
+	regular paragraph.
+	
+	Pójdźże, kiń tę chmurność w głąb flaszy!
+	
+	### Nagłówek 3.
+	
+	> To jest blok cytatu.
+	>
+	> To jest drugi akapit w bloku cytatu.
+	>
+	> ## To jest H2 w bloku cytatu
+	<h1>Nagłówek pierwszego poziomu</h1>
+	
+	<h2>Nagłówek drugiego poziomu</h2>
+	
+	<p>Now is the time for all good men to come to
+	the aid of their country. This is just a
+	regular paragraph.</p>
+	
+	<p>Pójdźże, kiń tę chmurność w głąb flaszy!</p>
+	
+	<h3>Nagłówek 3.</h3>
+	
+	<blockquote>
+	    <p>To jest blok cytatu.</p>
+	
+	    <p>To jest drugi akapit w bloku cytatu.</p>
+	
+	    <h2>To jest H2 w bloku cytatu</h2>
+	</blockquote>
+	
