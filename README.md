@@ -98,7 +98,7 @@ Dla potrzebujących szybko podpowiedzi.
 	![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)  
 ![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)
 
-Jeżeli chcesz wstawiać linijki kodu do notatek jako bloki, używaj 4-ech spacji albo tab na poczatku kazdej linii.
+Jeżeli chcesz wstawiać linijki kodu do notatek jako bloki, używaj 4-ech spacji albo tab na poczatku każdej linii.
 
 ###Akapity, nagłówki, cytaty  
 Akapit to po prostu jedna lub więcej kolejnych linii tekstu, rozdzielonych jedną lub więcej pustych linii. (Pusta linia to dowolna linia, która wygląda jak pusta linia – linia nie zawierająca nic poza spacjami lub tabulatorami jest traktowana jak pusta.) Zwykłe akapity nie powinny być wcinane spacjami lub tabulatorami.  
