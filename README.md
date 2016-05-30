@@ -78,5 +78,5 @@ Dla potrzebujących szybko podpowiedzi.
 
 Przykład jak można wstawic zdjęcie do swojego repozytorium
 
-![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)  
+	![asd](http://ocdn.eu/images/pulscms/ZTc7MDA_/69b1ca79f93ec522ce597f82a58b620a.jpg)  
 
