@@ -322,7 +322,7 @@ Przykłady do przećwiczenia a programie po załadowaniu odpowiedniej biblioteki
 	
 	
 #Przypomnienie podstawowych funkcji jakimi dysponuje Python.  
-Dzięki uprzejmości kolegi RAfała :)
+Dzięki uprzejmości kolegi Rafała :)
 
 
 ###PYTHON:
