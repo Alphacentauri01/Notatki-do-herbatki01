@@ -178,7 +178,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	
 	    <h2>To jest H2 w bloku cytatu</h2>
 	</blockquote>
-	
+Bardzo pomocne wskazówki do stosowania aplikacji na Wiki -skarbnica wiedzy	
 [Link](https://pl.wikipedia.org/wiki/Markdown)
 	
 
