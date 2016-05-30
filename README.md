@@ -17,8 +17,8 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
 
 ###Zadanie z Heronem
   
- ( #include <stdio.h>)
-#include <math.h>
+include <stdio.h>
+include <math.h>
 double pierwiastek (double a)
 {
 	double x=1, epsilon=1e-9;
