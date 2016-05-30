@@ -39,7 +39,8 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
 			}
 	}
 	
-	### Przyklad programu w jezyku C  
+### Przyklad programu w jezyku C  
+	
 		#include<stdio.h>
 		#define znak "*"        / *znak wypelniania*/
 		
