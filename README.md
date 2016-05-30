@@ -43,7 +43,7 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
 
 
 
-	Szereg mac
+###Szereg mac
 
 
 	#include <stdio.h>
