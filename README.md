@@ -146,8 +146,8 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	Nagłówek pierwszego poziomu
 	===========================
 	
-	Nagłówek drugiego poziomu
-	--------------------------
+	Nagłówek drugiego poziomu	<h2>Nagłówek drugiego poziomu</h2>
+	--------------------------   |  ------------------------------------
 	
 	Now is the time for all good men to come to
 	the aid of their country. This is just a
@@ -162,10 +162,10 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	> To jest drugi akapit w bloku cytatu.
 	>
 	> # To jest H2 w bloku cytatu
-	<h1>Nagłówek pierwszego poziomu</h1>
+	<h1>Nagłówek pierwszego poziomu</h1>	
 	
-	<h2>Nagłówek drugiego poziomu</h2>
 	===================================
+
 	<p>Now is the time for all good men to come to
 	the aid of their country. This is just a
 	regular paragraph.</p>
@@ -182,3 +182,5 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	    <h2>To jest H2 w bloku cytatu</h2>
 	</blockquote>
 	
+	
+
