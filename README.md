@@ -182,8 +182,9 @@ Bardzo pomocne wskazówki do stosowania aplikacji na Wiki -skarbnica wiedzy
 [Link](https://pl.wikipedia.org/wiki/Markdown)  
 
 
-Teraz trochę Python'a 
-Ćwiczenie 1
+Teraz trochę Python'a   
+
+#Ćwiczenie 1
 
 	import math
 	
@@ -208,7 +209,7 @@ Teraz trochę Python'a
 	
 	print (np.roots(p5))  
 	
-Ćwiczenie 2  
+#Ćwiczenie 2  
 
 	import math
 	
@@ -244,7 +245,7 @@ Teraz trochę Python'a
 	
 	x=solve(a,b)  
 	
-Ćwiczenie 3
+#Ćwiczenie 3
 
 	import math
 	
@@ -280,7 +281,7 @@ Teraz trochę Python'a
 	x=solve(a,b)
 	print(x)  
 	
-Ćwiczenie 4   
+#Ćwiczenie 4   
 
 	'''import math
 	
