@@ -165,7 +165,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	<h1>Nagłówek pierwszego poziomu</h1>
 	
 	<h2>Nagłówek drugiego poziomu</h2>
-	
+	----------------------------------
 	<p>Now is the time for all good men to come to
 	the aid of their country. This is just a
 	regular paragraph.</p>
