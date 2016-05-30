@@ -4,7 +4,7 @@
 
 Poniższe linki stanowia przykłady do programów w jezyku C. Mam nadzieję,że kiedyś je zrozumię.
 
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)  
+_Kliknij link z kodem źródłowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)  
 
 ##Poprawione zadanie 4  
 
@@ -61,9 +61,9 @@ _Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notat
 
 pozostałe przykłady programów w języku C
 
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy2.cpp)  
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/Zadanie%205.cpp)  
-_Kliknij link z kodem zrodlowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/zadanie%20z%20heronem.doc)
+_Kliknij link z kodem źródłowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy2.cpp)  
+_Kliknij link z kodem źródłowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/Zadanie%205.cpp)  
+_Kliknij link z kodem źródłowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/zadanie%20z%20heronem.doc)
 
 
 ###Zadanie z Heronem
