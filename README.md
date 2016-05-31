@@ -149,35 +149,25 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	Nagłówek drugiego poziomu    |	<h2>Nagłówek drugiego poziomu</h2>
 	--------------------------   |  ------------------------------------
 	
-	Now is the time for all good men to come to
-	the aid of their country. This is just a
-	regular paragraph.
+	Now is the time for all good men to come to  |	<p>Now is the time for all good men to come to
+	the aid of their country. This is just a     |     the aid of their country. This is just a
+	regular paragraph.                                 regular paragraph.</p>
 	
-	Pójdźże, kiń tę chmurność w głąb flaszy!
+	 Pójdźże, kiń tę chmurność w głąb flaszy!    |   <p>Pójdźże, kiń tę chmurność w głąb flaszy!</p>
 	
-	# Nagłówek 3.
+	# Nagłówek 3.                                |	<h3>Nagłówek 3.</h3>
 	
-	> To jest blok cytatu.
+	                                             |     <blockquote>
+	> To jest blok cytatu.                       |     <p>To jest blok cytatu.</p>
+        >
+	> To jest drugi akapit w bloku cytatu.       |     <p>To jest drugi akapit w bloku cytatu.</p>
 	>
-	> To jest drugi akapit w bloku cytatu.
-	>
-	> # To jest H2 w bloku cytatu
+	> # To jest H2 w bloku cytatu                |     <h2>To jest H2 w bloku cytatu</h2>
+	                                                  </blockquote>
+
 	
-	<p>Now is the time for all good men to come to
-	the aid of their country. This is just a
-	regular paragraph.</p>
 	
-	<p>Pójdźże, kiń tę chmurność w głąb flaszy!</p>
 	
-	<h3>Nagłówek 3.</h3>
-	
-	<blockquote>
-	    <p>To jest blok cytatu.</p>
-	
-	    <p>To jest drugi akapit w bloku cytatu.</p>
-	
-	    <h2>To jest H2 w bloku cytatu</h2>
-	</blockquote>
 Bardzo pomocne wskazówki do stosowania aplikacji na Wiki -skarbnica wiedzy	
 [Link](https://pl.wikipedia.org/wiki/Markdown)  
 
