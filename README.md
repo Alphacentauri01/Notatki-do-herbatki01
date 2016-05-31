@@ -140,7 +140,9 @@ Markdown oferuje dwa rodzaje nagłówków: Setext i atx.
 Nagłówki w stylu Setext dla h1 i h2 są tworzone przez „podkreślanie” znakami równości (=) lub dywizami (-).   
 Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki (#) na początku linii – liczba kratek równa się wynikowemu poziomowi nagłówka HTML.
 
- Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
+ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.  
+ 
+ 
 	Markdown:	                                 Wynik:
 	Nagłówek pierwszego poziomu  |                   <h1>Nagłówek pierwszego poziomu</h1>	
 	
