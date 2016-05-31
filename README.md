@@ -141,7 +141,7 @@ Nagłówki w stylu Setext dla h1 i h2 są tworzone przez „podkreślanie” zna
 Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki (#) na początku linii – liczba kratek równa się wynikowemu poziomowi nagłówka HTML.
 
  Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
-Markdown:	                                 Wynik:
+	Markdown:	                                 Wynik:
 	Nagłówek pierwszego poziomu  |                   <h1>Nagłówek pierwszego poziomu</h1>	
 	
 	Nagłówek drugiego poziomu    |	                   <h2>Nagłówek drugiego poziomu</h2>
@@ -171,7 +171,7 @@ Bardzo pomocne wskazówki do stosowania aplikacji na Wiki -skarbnica wiedzy
 
 
 Teraz trochę Python'a   
-Przykłady do przećwiczenia a programie po załadowaniu odpowiedniej biblioteki.  
+Przykłady do przećwiczenia w programie po załadowaniu odpowiedniej biblioteki.  
 
 
 ##Ćwiczenie 1
