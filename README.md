@@ -2,7 +2,7 @@
 
 ### Przyklad programu w jezyku C
 
-Poniższe linki stanowia przykłady do programów w jezyku C. Mam nadzieję,że kiedyś je zrozumię.
+Poniższe linki stanowia przykłady do programów w jezyku C. Mam nadzieję, że kiedyś je zrozumię.
 
 _Kliknij link z kodem źródłowym_ [Link](https://github.com/Alphacentauri01/Notatki-do-herbatki01/blob/master/programy.cpp)  
 
@@ -156,15 +156,15 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	 Pójdźże, kiń tę chmurność w głąb flaszy!    |   <p>Pójdźże, kiń tę chmurność w głąb flaszy!</p>
 
 		
-	# Nagłówek 3.                                |	<h3>Nagłówek 3.</h3>
+	# Nagłówek 3.                                |	   <h3>Nagłówek 3.</h3>
 	
-	                                             |     <blockquote>
-	> To jest blok cytatu.                       |     <p>To jest blok cytatu.</p>
+	> To jest blok cytatu.                       |     <blockquote>
+	                                             |     <p>To jest blok cytatu.</p>
 	>
 	> To jest drugi akapit w bloku cytatu.       |     <p>To jest drugi akapit w bloku cytatu.</p>
 	>
 	> # To jest H2 w bloku cytatu                |     <h2>To jest H2 w bloku cytatu</h2>
-	                                                  </blockquote>
+	                                                    </blockquote>
 
 Tak tworzy się tabelki i cytaty jak w kodzie powyżej.
 	
