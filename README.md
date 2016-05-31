@@ -146,7 +146,7 @@ Aby stworzyć nagłówek w stylu atx, należy wstawić od 1 do 6 znaków kratki 
 	Markdown:	                                 Wynik:
 	Nagłówek pierwszego poziomu  |                   <h1>Nagłówek pierwszego poziomu</h1>	
 	
-	Nagłówek drugiego poziomu    |	                   <h2>Nagłówek drugiego poziomu</h2>
+	Nagłówek drugiego poziomu    |	                 <h2>Nagłówek drugiego poziomu</h2>
 	--------------------------   |                   ------------------------------------
 	
 	Now is the time for all good men to come to  |	<p>Now is the time for all good men to come to
